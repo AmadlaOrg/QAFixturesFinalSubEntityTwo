@@ -1,0 +1,16 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "id": "urn:hery:amadla:AmadlaOrg:QAFixturesFinalSubEntityTwo:latest",
+  "title": "HERY - QA - Fixtures - Final - Sub - Entity - Two.",
+  "description": "Defines QA fixtures.",
+  "type": "object",
+  "properties": {
+    "little-message": {
+      "type": "string",
+      "description": "For simple message."
+    }
+  },
+  "required": [
+    "message"
+  ]
+}
